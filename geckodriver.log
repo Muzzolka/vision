@@ -1,0 +1,480 @@
+1512235938290	geckodriver	INFO	geckodriver 0.19.1
+1512235938338	geckodriver	INFO	Listening on 127.0.0.1:41099
+1512235941090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WPrjQv8dFxty"
+1512235971942	Marionette	INFO	Listening on port 34493
+1512235974389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512236028494	Marionette	INFO	Ceased listening
+1512236816532	geckodriver	INFO	geckodriver 0.19.1
+1512236816572	geckodriver	INFO	Listening on 127.0.0.1:41255
+1512236818566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RCtz0eWXk7wn"
+1512236835346	Marionette	INFO	Listening on port 36213
+1512236837191	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512237419003	geckodriver	INFO	geckodriver 0.19.1
+1512237419036	geckodriver	INFO	Listening on 127.0.0.1:42463
+1512237420112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L5vo4VCF8Oep"
+1512237442418	Marionette	INFO	Listening on port 46025
+1512237444130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512237490356	geckodriver	INFO	geckodriver 0.19.1
+1512237490389	geckodriver	INFO	Listening on 127.0.0.1:45083
+1512237493828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HN7mKbo49TF4"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512237501165	Marionette	INFO	Ceased listening
+1512237516082	Marionette	INFO	Listening on port 39191
+1512237518407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512237736932	geckodriver	INFO	geckodriver 0.19.1
+1512237736963	geckodriver	INFO	Listening on 127.0.0.1:51847
+1512237739227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jAr2AomXsXdU"
+1512237755680	Marionette	INFO	Listening on port 44475
+1512237757516	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512238638718	geckodriver	INFO	geckodriver 0.19.1
+1512238638749	geckodriver	INFO	Listening on 127.0.0.1:42203
+1512238640812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AzfkeKZHF8qO"
+1512238660145	Marionette	INFO	Listening on port 45669
+1512238661903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512239056317	geckodriver	INFO	geckodriver 0.19.1
+1512239056534	geckodriver	INFO	Listening on 127.0.0.1:53097
+1512239062556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SrhSCj3zOhwp"
+1512239093943	Marionette	INFO	Listening on port 42333
+1512239096705	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512239333789	geckodriver	INFO	geckodriver 0.19.1
+1512239333866	geckodriver	INFO	Listening on 127.0.0.1:42455
+1512239336047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V22ZZxkg2Ww5"
+1512239361891	Marionette	INFO	Listening on port 39233
+1512239363950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512239542337	geckodriver	INFO	geckodriver 0.19.1
+1512239542414	geckodriver	INFO	Listening on 127.0.0.1:43087
+1512239544710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yyqCC6Xg7rxM"
+1512239575211	Marionette	INFO	Listening on port 34997
+1512239577069	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512239842191	geckodriver	INFO	geckodriver 0.19.1
+1512239842285	geckodriver	INFO	Listening on 127.0.0.1:52021
+1512239843757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TIYqvDOJ4KsI"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512239878709	Marionette	INFO	Listening on port 46821
+1512239880917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+1512240051393	geckodriver	INFO	geckodriver 0.19.1
+1512240051521	geckodriver	INFO	Listening on 127.0.0.1:58163
+1512240053647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gH4AMqpknCen"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512240096543	Marionette	INFO	Listening on port 38095
+1512240098435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512240166264	Marionette	INFO	Ceased listening
+1512240203038	geckodriver	INFO	geckodriver 0.19.1
+1512240203061	geckodriver	INFO	Listening on 127.0.0.1:52751
+1512240204767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NP7SBHdnYpLW"
+1512240229409	Marionette	INFO	Listening on port 35365
+1512240231017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512240313156	Marionette	INFO	Ceased listening
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 403: TypeError: quads is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 403: TypeError: quads is undefined
+1512335590336	geckodriver	INFO	geckodriver 0.19.1
+1512335590397	geckodriver	INFO	Listening on 127.0.0.1:47643
+1512335592586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NdnTcY7b2Myx"
+1512335609613	Marionette	INFO	Enabled via --marionette
+1512335645100	Marionette	INFO	Listening on port 41559
+1512335645578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512335646550	Marionette	DEBUG	Register listener.js for window 2147483649
+1512335648490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512335650673	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512335650691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512335659426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335672577	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335673827	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335674834	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335675066	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335677353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512335677620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335685595	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335686552	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335687387	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335687601	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335690453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335690747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1512335698391	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335699646	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335700464	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335700701	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335703011	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512335703607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512335710972	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512335781986	geckodriver	INFO	geckodriver 0.19.1
+1512335782035	geckodriver	INFO	Listening on 127.0.0.1:52745
+1512335784249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7iB9WbFYFJx2"
+1512335799810	Marionette	INFO	Enabled via --marionette
+1512335824203	Marionette	INFO	Listening on port 35655
+1512335824761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512335825600	Marionette	DEBUG	Register listener.js for window 2147483649
+1512335826845	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512335828594	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512335828603	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512335838523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335852826	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335854122	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335855435	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335855669	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335857599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512335860275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335868281	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335869436	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335869967	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335870182	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512335872815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335872943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1512335881414	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335882242	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335882848	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335883083	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512335885274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512335888371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512335894184	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512336002577	Marionette	DEBUG	Register listener.js for window 2147483664
+1512336097024	Marionette	DEBUG	Register listener.js for window 4294967297
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512336597859	geckodriver	INFO	geckodriver 0.19.1
+1512336598143	geckodriver	INFO	Listening on 127.0.0.1:49613
+1512336603832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ANB534Hbxmp2"
+1512336644404	Marionette	INFO	Enabled via --marionette
+1512336705855	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+1512336708248	Marionette	INFO	Listening on port 43515
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+1512336721336	geckodriver	INFO	geckodriver 0.19.1
+1512336721469	geckodriver	INFO	Listening on 127.0.0.1:35895
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1512336727202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pzunsBRYNsdy"
+1512336742178	Marionette	INFO	Enabled via --marionette
+1512336785648	Marionette	INFO	Listening on port 34217
+1512336786217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512336789065	Marionette	DEBUG	Register listener.js for window 2147483649
+1512336789934	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512336794278	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512336794281	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512336809311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336831774	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336834361	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336836010	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336836329	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336841648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512336847270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336860552	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336862147	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336863096	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336863479	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512336868289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512336868437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1512336885595	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512336888277	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512336889433	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512336889643	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512336896137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512336896719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512336918714	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1512337624943	geckodriver	INFO	geckodriver 0.19.1
+1512337625154	geckodriver	INFO	Listening on 127.0.0.1:45709
+1512337628831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OGgHCS6sALMf"
+1512337662516	Marionette	INFO	Enabled via --marionette
+1512337716142	Marionette	INFO	Listening on port 35133
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1512338167506	geckodriver	INFO	geckodriver 0.19.1
+1512338167655	geckodriver	INFO	Listening on 127.0.0.1:51741
+1512338172059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lVtV5B8zrG5w"
+1512338186133	Marionette	INFO	Enabled via --marionette
+1512338229025	Marionette	INFO	Listening on port 41045
+1512338229301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512338231348	Marionette	DEBUG	Register listener.js for window 2147483649
+1512338232696	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512338235740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512338235742	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512338254231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338273997	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338276025	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338277390	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338277627	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338280743	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512338285760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338296633	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338298501	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338299553	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338299823	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512338305225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512338305413	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1512338324412	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512338326750	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512338327642	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512338327898	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512338333232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512338333250	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512338353040	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512338778007	geckodriver	INFO	geckodriver 0.19.1
+1512338778255	geckodriver	INFO	Listening on 127.0.0.1:42441
+1512338784106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7R4CkuKra18e"
+1512338803515	Marionette	INFO	Enabled via --marionette
+1512338849357	Marionette	INFO	Listening on port 45683
+1512338949644	geckodriver	INFO	geckodriver 0.19.1
+1512338949771	geckodriver	INFO	Listening on 127.0.0.1:34867
+1512338954065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XP1MjYWOHm1F"
+1512338968463	Marionette	INFO	Enabled via --marionette
+1512339013721	Marionette	INFO	Listening on port 36245
+1512339015464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512339016022	Marionette	DEBUG	Register listener.js for window 2147483649
+1512339019927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512339039032	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512339039174	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512339067612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339075230	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339077486	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339078352	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339078584	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339092051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339132762	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339138123	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339141485	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339141742	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339159283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1512339160131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339181371	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339183627	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339184864	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339185098	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339189107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1512339192421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512339203088	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512339265609	geckodriver	INFO	geckodriver 0.19.1
+1512339265672	geckodriver	INFO	Listening on 127.0.0.1:38671
+1512339270080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YEaLBqeJGn3I"
+1512339294604	Marionette	INFO	Enabled via --marionette
+1512339351897	Marionette	INFO	Listening on port 36013
+1512339370229	geckodriver	INFO	geckodriver 0.19.1
+1512339370355	geckodriver	INFO	Listening on 127.0.0.1:49395
+1512339375226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9zfxrxsJGKWg"
+1512339393925	Marionette	INFO	Enabled via --marionette
+1512339434880	Marionette	INFO	Listening on port 45473
+1512339435936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512339437636	Marionette	DEBUG	Register listener.js for window 2147483649
+1512339441496	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512339444401	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512339444411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512339457596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339481547	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339484270	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339485403	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339485741	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339490332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512339493824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339508292	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339510156	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339510767	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339511002	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512339517200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339517233	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1512339534894	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339537249	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339538549	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339538786	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512339543179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512339543282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512339562410	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512339851859	geckodriver	INFO	geckodriver 0.19.1
+1512339852392	geckodriver	INFO	Listening on 127.0.0.1:33419
+1512339856788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sSOPTHgPo988"
+1512339895860	Marionette	INFO	Enabled via --marionette
+1512339948818	Marionette	INFO	Listening on port 33203
+1512339967133	geckodriver	INFO	geckodriver 0.19.1
+1512339967273	geckodriver	INFO	Listening on 127.0.0.1:41313
+1512339971096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UL3NbxJ0oob9"
+1512339988469	Marionette	INFO	Enabled via --marionette
+1512340036629	Marionette	INFO	Listening on port 42605
+1512340086120	geckodriver	INFO	geckodriver 0.19.1
+1512340086275	geckodriver	INFO	Listening on 127.0.0.1:48687
+1512340090520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R795RwomOru0"
+1512340114319	Marionette	INFO	Enabled via --marionette
+1512340255180	Marionette	INFO	Listening on port 45339
+1512340286395	geckodriver	INFO	geckodriver 0.19.1
+1512340286630	geckodriver	INFO	Listening on 127.0.0.1:38359
+1512340293606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8O5lRilA1jqJ"
+1512340318982	Marionette	INFO	Enabled via --marionette
+1512340408199	Marionette	INFO	Listening on port 38271
+1512340431779	geckodriver	INFO	geckodriver 0.19.1
+1512340431867	geckodriver	INFO	Listening on 127.0.0.1:46191
+1512340441436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MpKLeCjtZXk6"
+1512340521386	Marionette	INFO	Enabled via --marionette
+[Parent 11154, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (89): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11154, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 11154, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+JavaScript error: resource://shield-recipe-client/lib/ShieldRecipeClient.jsm, line 70: TypeError: log is undefined
+ExceptionHandler::GenerateDump cloned child 11471
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Promise rejected after context unloaded: Message manager disconnected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1512340635571	geckodriver	INFO	geckodriver 0.19.1
+1512340635734	geckodriver	INFO	Listening on 127.0.0.1:37929
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1512340643668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hFjv2cchS1oe"
+1512340652868	Marionette	INFO	Enabled via --marionette
+1512340679637	Marionette	INFO	Listening on port 44399
+1512340679815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512340681293	Marionette	DEBUG	Register listener.js for window 2147483649
+1512340682551	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512340684857	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512340684903	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512340700517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340715626	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340719086	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340719856	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340720070	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340723374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340723646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1512340734101	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340736127	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340736980	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340737256	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybor-rodzaju-wizyty"
+1512340745604	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1512340749013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512340763731	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512340765140	Marionette	DEBUG	Received DOM event "beforeunload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512340766100	Marionette	DEBUG	Received DOM event "pagehide" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512340766354	Marionette	DEBUG	Received DOM event "unload" for "https://recepcja.visionexpress.pl/wizyta/wybierz-sposob-umowienia"
+1512340769776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512340769949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512340780382	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
