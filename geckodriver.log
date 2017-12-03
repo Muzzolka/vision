@@ -478,3 +478,5 @@ JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: N
 1512340769776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
 1512340769949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
 1512340780382	Marionette	DEBUG	Received DOM event "pageshow" for "https://recepcja.visionexpress.pl/wizyta/pacjent"
+1512342823792	Marionette	DEBUG	Register listener.js for window 2147483667
+1512342837195	Marionette	DEBUG	Register listener.js for window 4294967297
